@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- view background color -->
+    <solid
+        android:color="@color/white" >
+    </solid>
+
+    <corners android:radius="@dimen/CardCorner"></corners>
+    <!-- view border_line_rectangle_white color and width -->
+    <stroke
+        android:width="3dp"
+        android:color="@color/white" >
+    </stroke>
+
+</shape>

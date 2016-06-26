@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="CardViewBackground" parent="CardView">
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="cardCornerRadius">@dimen/CardCorner</item>
+        <item name="cardElevation">@dimen/cardElevation</item>
+    </style>
+
+    <style name="HeaderTextStyle">
+        <item name="android:textColor">@color/HeaderTextColor</item>
+        <item name="android:textSize">@dimen/HeaderTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">@dimen/formMarginTop</item>
+        <item name="android:layout_marginLeft">@dimen/formMarginTop</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="android:textColor">@color/HeaderTextColor</item>
+        <item name="android:textSize">@dimen/TextSize</item>
+        <item name="android:layout_marginLeft">@dimen/formMarginTop</item>
+    </style>
+
+    <style name="PriceTextStyle">
+        <item name="android:textColor">@color/PriceTextColor</item>
+        <item name="android:textSize">@dimen/PriceTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">@dimen/PriceRightMargin</item>
+        <item name="android:layout_marginBottom">@dimen/PriceBottomMargin</item>
+    </style>
+
+
+</resources>

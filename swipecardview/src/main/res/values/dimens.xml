@@ -1,0 +1,35 @@
+<resources>
+
+
+    <dimen name="radiusMini">2dp</dimen>
+    <dimen name="radiusNormal">5dp</dimen>
+    <dimen name="shadow">6dp</dimen>
+    <dimen name="paddingMini">0.5dp</dimen>
+    <dimen name="paddingExtraSmall">2dp</dimen>
+    <dimen name="paddingBorderLine">3dp</dimen>
+    <dimen name="paddingSmall">5dp</dimen>
+    <dimen name="paddingLarge">15dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="marginLarge">40dp</dimen>
+    <dimen name="marginSmall">5dp</dimen>
+    <dimen name="marginNormal">10dp</dimen>
+    <dimen name="textSizeMiddle">16sp</dimen>
+    <dimen name="textSizeNormal">18sp</dimen>
+    <dimen name="textSizeLarge">20sp</dimen>
+
+
+    <dimen name="buttonCorner">@dimen/radiusMini</dimen>
+    <dimen name="CardCorner">@dimen/radiusNormal</dimen>
+    <dimen name="cardElevation">@dimen/shadow</dimen>
+    <dimen name="formMarginTop">@dimen/margin</dimen>
+
+    <!--  Showcase !-->
+    <dimen name="HeaderTextSize">@dimen/textSizeLarge</dimen>
+    <dimen name="TextSize">@dimen/textSizeNormal</dimen>
+    <dimen name="PriceTextSize">@dimen/textSizeLarge</dimen>
+    <dimen name="PriceBottomMargin">@dimen/marginLarge</dimen>
+    <dimen name="PriceRightMargin">@dimen/margin</dimen>
+    <dimen name="ProductPadding">@dimen/paddingSmall</dimen>
+
+
+</resources>
