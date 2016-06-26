@@ -46,9 +46,9 @@ for(int i=0;i<=10;i++){
 Set values to SwipeCardAdapter.
 ```java
 SwipeCardAdapter swipeCardAdapter = new SwipeCardAdapter(MainActivity.this, swipeCardModels, MainActivity.this);
-        LinearLayoutManager layoutManager = new LinearLayoutManager(MainActivity.this, LinearLayoutManager.HORIZONTAL, false);
-        recyclerView.setLayoutManager(layoutManager);
-        recyclerView.setAdapter(swipeCardAdapter);
+LinearLayoutManager layoutManager = new LinearLayoutManager(MainActivity.this, LinearLayoutManager.HORIZONTAL, false);
+recyclerView.setLayoutManager(layoutManager);
+recyclerView.setAdapter(swipeCardAdapter);
 ```
 
 Implement RecyclerViewClickListener and get  onclick events via interface. 
