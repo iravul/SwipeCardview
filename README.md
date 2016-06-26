@@ -1,6 +1,6 @@
 # SwipeCardview for listing item or products
 
-SwipeCardview is a recyclerview that it lists products, items or etc. with using cardview. Also it aligns the card to center.
+SwipeCardview is a recyclerview that lists products, items or etc. with using cardview. Also it aligns the card to center.
 
   - Android API 14+
   - Optimized for the all screen sizes
