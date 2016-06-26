@@ -1,4 +1,4 @@
-package com.iravul.swipecardview;
+package com.iravul.swipecardviewsample;
 
 import org.junit.Test;
 

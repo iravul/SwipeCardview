@@ -1,10 +1,14 @@
-package com.iravul.swipecardview;
+package com.iravul.swipecardviewsample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+
+import com.iravul.swipecardview.RecyclerViewClickListener;
+import com.iravul.swipecardview.SwipeCardAdapter;
+import com.iravul.swipecardview.SwipeCardModel;
 
 import java.util.ArrayList;
 import java.util.List;

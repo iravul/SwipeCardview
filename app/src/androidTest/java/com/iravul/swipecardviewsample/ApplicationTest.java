@@ -1,4 +1,4 @@
-package com.iravul.swipecardview;
+package com.iravul.swipecardviewsample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
