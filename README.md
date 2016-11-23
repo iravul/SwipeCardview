@@ -25,6 +25,18 @@ SwipeCardview uses some open source projects to work properly:
 
 ### Usage
 
+```
+repositories {
+    maven {
+        url  "http://dl.bintray.com/iravul/maven"
+    }
+}
+```
+
+```
+    compile 'com.iravul.swipecardview:swipecardview:1.0.0'
+```
+
 Initialize your own recyclerview in Activity or Fragment. Then use SwipeCardAdapter to show values on your recyclerview.
 
 Use SwipeCardModel List for loading data. 
