@@ -9,7 +9,7 @@ SwipeCardview is a recyclerview that lists products, items or etc. with using ca
 
 ### Demo
 
-You can try sample from source codes. Also you can test from http://iravul.com/swipecardview/
+You can try sample from source codes. Also you can test from http://iravul.com/swipecardview
 
 
 ### Version
